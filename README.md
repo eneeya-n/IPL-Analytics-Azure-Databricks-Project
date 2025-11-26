@@ -35,7 +35,7 @@ The solution is designed as a real-time industry case study showcasing enterpris
 ## Repository Contents
 | File / Folder | Description |
 |--------------|-------------|
-| `Case Study PySpark + Azure DB.pdf / Problem_Statement.md` | Case study describing all analytics tasks |
+| `Case Study PySpark + Azure DB.pdf` | Case study describing all analytics tasks |
 | `Solution_Notebook.ipynb` | Complete Databricks notebook containing solution |
 | `IPL_Dataset.rar/` | IPL datasets (2008–2017) in CSV format |
 | `README.md` | Repository documentation |
@@ -74,10 +74,3 @@ The Databricks notebook generates analytical visualizations such as:
 4. Attach the notebook to your running cluster  
 5. Run all cells sequentially to reproduce analytics and visualizations  
 
-
-
----
-
-## 📜 License
-This project is released for **learning and academic purposes**.  
-All IPL data belongs to their respective owners.
